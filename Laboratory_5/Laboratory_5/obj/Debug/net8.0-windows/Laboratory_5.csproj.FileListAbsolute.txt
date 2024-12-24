@@ -1,0 +1,14 @@
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\obj\Debug\net8.0-windows\Laboratory_5.GeneratedMSBuildEditorConfig.editorconfig
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\obj\Debug\net8.0-windows\Laboratory_5.AssemblyInfoInputs.cache
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\obj\Debug\net8.0-windows\Laboratory_5.AssemblyInfo.cs
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\obj\Debug\net8.0-windows\Laboratory_5.csproj.CoreCompileInputs.cache
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\bin\Debug\net8.0-windows\Laboratory_5.exe
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\bin\Debug\net8.0-windows\Laboratory_5.deps.json
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\bin\Debug\net8.0-windows\Laboratory_5.runtimeconfig.json
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\bin\Debug\net8.0-windows\Laboratory_5.dll
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\bin\Debug\net8.0-windows\Laboratory_5.pdb
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\obj\Debug\net8.0-windows\Laboratory_5.dll
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\obj\Debug\net8.0-windows\refint\Laboratory_5.dll
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\obj\Debug\net8.0-windows\Laboratory_5.pdb
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\obj\Debug\net8.0-windows\Laboratory_5.genruntimeconfig.cache
+F:\Second course\OOP\Laboratory5\Laboratory5C#\Laboratory_5\Laboratory_5\obj\Debug\net8.0-windows\ref\Laboratory_5.dll

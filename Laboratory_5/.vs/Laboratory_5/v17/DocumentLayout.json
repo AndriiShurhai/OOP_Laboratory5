@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|f:\\second course\\oop\\laboratory5\\laboratory5c#\\laboratory_5\\laboratory_5\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|solutionrelative:laboratory_5\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|f:\\second course\\oop\\laboratory5\\laboratory5c#\\laboratory_5\\laboratory_5\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|solutionrelative:laboratory_5\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|f:\\second course\\oop\\laboratory5\\laboratory5c#\\laboratory_5\\laboratory_5\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|solutionrelative:laboratory_5\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|f:\\second course\\oop\\laboratory5\\laboratory5c#\\laboratory_5\\laboratory_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|solutionrelative:laboratory_5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|f:\\second course\\oop\\laboratory5\\laboratory5c#\\laboratory_5\\laboratory_5\\laboratory_5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|solutionrelative:laboratory_5\\laboratory_5.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|f:\\second course\\oop\\laboratory5\\laboratory5c#\\laboratory_5\\laboratory_5\\rhomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{113BFE4B-9480-415B-BBF4-AB19EC204E13}|Laboratory_5\\Laboratory_5.csproj|solutionrelative:laboratory_5\\rhomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Rhomb.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Rhomb.cs",
+              "RelativeDocumentMoniker": "Laboratory_5\\Rhomb.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Rhomb.cs",
+              "RelativeToolTip": "Laboratory_5\\Rhomb.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAABwAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:41:19.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Square.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Square.cs",
+              "RelativeDocumentMoniker": "Laboratory_5\\Square.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Square.cs",
+              "RelativeToolTip": "Laboratory_5\\Square.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:36:00.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Circle.cs",
+              "RelativeDocumentMoniker": "Laboratory_5\\Circle.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Circle.cs",
+              "RelativeToolTip": "Laboratory_5\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:30:13.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Laboratory_5",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Laboratory_5.csproj",
+              "RelativeDocumentMoniker": "Laboratory_5\\Laboratory_5.csproj",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Laboratory_5.csproj",
+              "RelativeToolTip": "Laboratory_5\\Laboratory_5.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T17:23:19.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Figure.cs",
+              "RelativeDocumentMoniker": "Laboratory_5\\Figure.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Figure.cs",
+              "RelativeToolTip": "Laboratory_5\\Figure.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:23:37.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Program.cs",
+              "RelativeDocumentMoniker": "Laboratory_5\\Program.cs",
+              "ToolTip": "F:\\Second course\\OOP\\Laboratory5\\Laboratory5C#\\Laboratory_5\\Laboratory_5\\Program.cs",
+              "RelativeToolTip": "Laboratory_5\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAYwFYAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T17:22:30.161Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
